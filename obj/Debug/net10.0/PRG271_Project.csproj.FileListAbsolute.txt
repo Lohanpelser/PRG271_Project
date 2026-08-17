@@ -1,0 +1,15 @@
+/workspaces/PRG271_Project/bin/Debug/net10.0/PRG271_Project
+/workspaces/PRG271_Project/bin/Debug/net10.0/PRG271_Project.deps.json
+/workspaces/PRG271_Project/bin/Debug/net10.0/PRG271_Project.runtimeconfig.json
+/workspaces/PRG271_Project/bin/Debug/net10.0/PRG271_Project.dll
+/workspaces/PRG271_Project/bin/Debug/net10.0/PRG271_Project.pdb
+/workspaces/PRG271_Project/obj/Debug/net10.0/PRG271_Project.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PRG271_Project/obj/Debug/net10.0/PRG271_Project.AssemblyInfoInputs.cache
+/workspaces/PRG271_Project/obj/Debug/net10.0/PRG271_Project.AssemblyInfo.cs
+/workspaces/PRG271_Project/obj/Debug/net10.0/PRG271_Project.csproj.CoreCompileInputs.cache
+/workspaces/PRG271_Project/obj/Debug/net10.0/PRG271_Project.sourcelink.json
+/workspaces/PRG271_Project/obj/Debug/net10.0/PRG271_Project.dll
+/workspaces/PRG271_Project/obj/Debug/net10.0/refint/PRG271_Project.dll
+/workspaces/PRG271_Project/obj/Debug/net10.0/PRG271_Project.pdb
+/workspaces/PRG271_Project/obj/Debug/net10.0/PRG271_Project.genruntimeconfig.cache
+/workspaces/PRG271_Project/obj/Debug/net10.0/ref/PRG271_Project.dll

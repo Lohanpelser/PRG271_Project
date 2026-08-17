@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Threading;
@@ -83,8 +83,8 @@ namespace FreightSystem
         public delegate void SystemEventHandler(string message);
 
         //Define the Events
-        public event SystemEventHandler OnDispatched;
-        public event SystemEventHandler OnDelivered;
+        public event SystemEventHandler? OnDispatched;
+        public event SystemEventHandler? OnDelivered;
 
         //Lists to store our shipments
         public List<Shipment> ActiveShipments = new List<Shipment>();
