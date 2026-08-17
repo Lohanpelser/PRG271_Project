@@ -1,0 +1,14 @@
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\bin\Debug\net10.0\FreightSystem.exe
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\bin\Debug\net10.0\FreightSystem.deps.json
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\bin\Debug\net10.0\FreightSystem.runtimeconfig.json
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\bin\Debug\net10.0\FreightSystem.dll
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\bin\Debug\net10.0\FreightSystem.pdb
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\obj\Debug\net10.0\FreightSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\obj\Debug\net10.0\FreightSystem.AssemblyInfoInputs.cache
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\obj\Debug\net10.0\FreightSystem.AssemblyInfo.cs
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\obj\Debug\net10.0\FreightSystem.csproj.CoreCompileInputs.cache
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\obj\Debug\net10.0\FreightSystem.dll
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\obj\Debug\net10.0\refint\FreightSystem.dll
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\obj\Debug\net10.0\FreightSystem.pdb
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\obj\Debug\net10.0\FreightSystem.genruntimeconfig.cache
+C:\Users\lohan\OneDrive\BC\2nd year\PRG271 - Raymond Hood\Project\PRG271-Project-Lohan\FreightSystem\FreightSystem\obj\Debug\net10.0\ref\FreightSystem.dll
